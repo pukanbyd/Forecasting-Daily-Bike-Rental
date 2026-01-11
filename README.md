@@ -17,7 +17,7 @@ Third- year student in Statistics and Data Science at Chulalongkorn University
 - analyzed daily bike rental data to identify trends and seasonal patterns
 - compared multiple time series models (ARIMA, SARIMA, ARIMAX, SARIMAX) to determine the most suitable approach
 - evaluated model performance and selected the best-performing model using Google Colab
-- - Worked collaboratively as part of a group project
+- Worked collaboratively as part of a group project
 - Google Colab : https://colab.research.google.com/drive/1zEnPJ09SU6H3d0GkDbBcQWWoVB1NkRKQ#scrollTo=VkEZLz9vkIJa
 
 ## Extracurricular Activities
